@@ -4,3 +4,7 @@ class Sample
   int a=10;
   int b=20;
 }
+public statc void main()
+{
+  areaa()
+}
