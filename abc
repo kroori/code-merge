@@ -1,0 +1,6 @@
+class Sample
+{
+  static void area()
+  int a=10;
+  int b=20;
+}
